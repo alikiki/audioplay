@@ -1,6 +1,2 @@
-# Log
-
-## Friday, December 25, 2020
-* Reading mp3, wav files
-
-## 
+# audioplay
+An implementation of the Shazam audio fingerprinting algorithm. 
